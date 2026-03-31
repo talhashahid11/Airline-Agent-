@@ -74,12 +74,6 @@ python app.py
 
 ---
 
-## 📸 Screenshot
-
-(Add your project screenshot here)
-
----
-
 ## 📚 Learning Outcomes
 
 * Understanding how APIs work in real applications
